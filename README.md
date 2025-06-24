@@ -18,10 +18,15 @@ To help an e-commerce business understand:
 ---
 ##🧾 Key Insights
 Home & Living had the highest number of returns
+
 Most common return reason: Not as Described
+
 Returns significantly increase when delivery delay exceeds 5 days
+
 Lost revenue from returns: ₹91.68K
+
 Southern and Western regions showed higher return activity
+
 
 ## 🔧 Tools Used
 
